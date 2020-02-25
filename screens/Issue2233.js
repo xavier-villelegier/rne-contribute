@@ -3,6 +3,7 @@ import { StyleSheet, Text, View } from "react-native";
 
 import { Button, Avatar } from "react-native-elements";
 
+// https://github.com/react-native-elements/react-native-elements/issues/2233
 export default function Issue2233() {
   const AVATAR_URI =
     "https://flyinryanhawks.org/wp-content/uploads/2016/08/profile-placeholder.png";

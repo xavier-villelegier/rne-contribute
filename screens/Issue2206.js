@@ -3,6 +3,7 @@ import { StyleSheet, View } from "react-native";
 
 import { Image } from "react-native-elements";
 
+// https://github.com/react-native-elements/react-native-elements/issues/2206
 export default function Issue2206() {
   const AVATAR_URI =
     "https://flyinryanhawks.org/wp-content/uploads/2016/08/profile-placeholder.png";

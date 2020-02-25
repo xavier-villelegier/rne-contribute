@@ -3,6 +3,7 @@ import { StyleSheet, Text, View } from "react-native";
 
 import { Icon } from "react-native-elements";
 
+// https://github.com/react-native-elements/react-native-elements/issues/2225
 export default function Issue2225() {
   return (
     <View style={styles.container}>
